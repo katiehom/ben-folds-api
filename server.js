@@ -38,18 +38,3 @@ app.listen(process.env.PORT || PORT, () => {
     console.log(`Server is running on port ${PORT}`)
 })
 
-
-
-
-
-        // if(songs[songTitles]){
-        //     response.json(songs[songTitles])
-        // } else {
-        //     response.json(songs['unlisted']) // Not sure what to have here
-        // }
-
-
-        // const cursor = db.collection('song-titles').find().toArray()
-        // .then(results => {
-        //     console.log(results)
-        // })
