@@ -20,7 +20,7 @@ When you're thinking of a Ben Folds or Ben Folds Five song but can't remember wh
 
 **Tech used:** HTML, CSS, JavaScript, Node, EJS, Express, MongoDB
 
-This project started in two phases: one for the client-side code and another for the back end code. 
+This project started in two phases: one for the <a href="https://github.com/katiehom/ben-folds-app" target="_blank">client-side code</a> and another for the <a href="https://github.com/katiehom/ben-folds-api" target="_blank">back end code</a>. 
 I developed the front end site with an input and various nodes in the DOM for information to be updated.
 Through the course of development, I started developing the API using album information and album images linked from Wikipedia.
 The back end part of the project included several parts including eventual API integration to MongoDB, development with Node and Express, and eventual deployment of the app to Heroku.
