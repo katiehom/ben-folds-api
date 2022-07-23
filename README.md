@@ -35,14 +35,6 @@ Initially the API data was hardcoded within the app, but I later migrated it to 
 
 I learned about API creation and optimization, MongoDB integration, and Heroku deployment. This full stack project helped connect so many dots about front end and back end and how they can be separate and still merge together. 
 
-## Examples:
-Take a look at these other projects from my portfolio:
-
-**Theory Revolution:** https://github.com/katiehom/theoryrevolution
-
-**Song Beats:** https://github.com/katiehom/song-beats
-
-**Mission Mars:** https://github.com/katiehom/mission-mars
 
 ## Other Projects:
 
