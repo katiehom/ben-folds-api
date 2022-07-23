@@ -8,10 +8,10 @@ When you're thinking of a Ben Folds or Ben Folds Five song but can't remember wh
 
 <p align="center">
   <a href="https://github.com/katiehom/ben-folds-api" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=0638a4&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://ben-folds-api.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=0638a4&style=plastic&logo=netlify&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
   </a>
 </p>
 
