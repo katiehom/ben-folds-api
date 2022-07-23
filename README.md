@@ -43,3 +43,33 @@ Take a look at these other projects from my portfolio:
 **Song Beats:** https://github.com/katiehom/song-beats
 
 **Mission Mars:** https://github.com/katiehom/mission-mars
+
+## Other Projects:
+
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href="https://github.com/katiehom/theoryrevolution">Theory Revolution</a>
+        <br />
+      <a target="_blank" href="https://github.com/katiehom/theoryrevolution">
+            <img src="https://user-images.githubusercontent.com/52755177/180623254-aabc799d-839d-4643-8395-a124681663bf.gif" width="100%" alt="Theory Revolution"/>
+      </a>
+    </td>
+       <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/katiehom/katie-hom">Portfolio</a>
+        <br />
+        <a target="_blank" href="https://github.com/katiehom/katie-hom">
+          <img src="https://user-images.githubusercontent.com/52755177/180623739-fbf4f9ef-d1e2-4cb3-8717-0f139b4af221.gif" width="100%" alt="Portfolio"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/katiehom/song-beats">SongBeats</a>
+      <br />
+        <a target="_blank" href="https://github.com/katiehom/song-beats">
+          <img src="https://user-images.githubusercontent.com/52755177/180623807-00ca6c55-c02a-4bbd-acbc-5f619191dff3.gif" width="100%" alt="SongBeats"/>
+
+        </a>
+    </td>
+  </tr>
+</table>
