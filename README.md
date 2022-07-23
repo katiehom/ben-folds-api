@@ -45,7 +45,7 @@ I learned about API creation and optimization, MongoDB integration, and Heroku d
 <a target="_blank" href="https://github.com/katiehom/theoryrevolution">Theory Revolution</a>
         <br />
       <a target="_blank" href="https://github.com/katiehom/theoryrevolution">
-            <img src="https://user-images.githubusercontent.com/52755177/180623254-aabc799d-839d-4643-8395-a124681663bf.gif" width="100%" alt="Theory Revolution"/>
+            <img src="https://user-images.githubusercontent.com/52755177/180623890-6179f79a-82f7-4336-bf2f-adaedaa1eb44.gif" width="100%" alt="Theory Revolution"/>
       </a>
     </td>
        <td width="33.3%" valign="top">
@@ -62,5 +62,6 @@ I learned about API creation and optimization, MongoDB integration, and Heroku d
           <img src="https://user-images.githubusercontent.com/52755177/180623807-00ca6c55-c02a-4bbd-acbc-5f619191dff3.gif" width="100%" alt="SongBeats"/>
         </a>
     </td>
+
   </tr>
 </table>
