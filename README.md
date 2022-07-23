@@ -18,7 +18,7 @@ When you're thinking of a Ben Folds or Ben Folds Five song but can't remember wh
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Node, EJS, Express, MongoDB
+**Tech used:** <strong>HTML, CSS, JavaScript, Node, EJS, Express, MongoDB</strong>
 
 This project started in two phases: one for the <a href="https://github.com/katiehom/ben-folds-app" target="_blank">client-side code</a> and another for the <a href="https://github.com/katiehom/ben-folds-api" target="_blank">back end code</a>. 
 I developed the front end site with an input and various nodes in the DOM for information to be updated.
