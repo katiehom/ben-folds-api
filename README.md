@@ -5,6 +5,12 @@ When you're thinking of a Ben Folds or Ben Folds Five song but can't remember wh
     <img src="https://user-images.githubusercontent.com/52755177/180620874-046f569b-c38d-499e-8829-994d57615383.gif" alt="Ben Folds Songs"/>
   </a>
 </p>
+  <a href="https://github.com/katiehom/ben-folds-api" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=blue&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://ben-folds-api.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=netlify&logo-color=white"/>
+  </a>
 
 **Link to project:** https://ben-folds-api.netlify.app/
 
