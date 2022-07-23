@@ -68,7 +68,6 @@ Take a look at these other projects from my portfolio:
       <br />
         <a target="_blank" href="https://github.com/katiehom/song-beats">
           <img src="https://user-images.githubusercontent.com/52755177/180623807-00ca6c55-c02a-4bbd-acbc-5f619191dff3.gif" width="100%" alt="SongBeats"/>
-
         </a>
     </td>
   </tr>
