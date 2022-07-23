@@ -33,7 +33,7 @@ Initially the API data was hardcoded within the app, but I later migrated it to 
 
 ## Lessons Learned:
 
-I learned about API creation and optimization, MongoDB integration, and Heroku deployment. and This full stack project helped connect so many dots about front end and back end and how they can be separate and still merge together. 
+I learned about API creation and optimization, MongoDB integration, and Heroku deployment. This full stack project helped connect so many dots about front end and back end and how they can be separate and still merge together. 
 
 ## Examples:
 Take a look at these other projects from my portfolio:
