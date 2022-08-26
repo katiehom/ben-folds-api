@@ -43,9 +43,9 @@ I learned about API creation and optimization, MongoDB integration, and Heroku d
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/katiehom/theoryrevolution">Theory Revolution</a>
+<a target="_blank" href="https://theoryrevolution.com">Theory Revolution</a>
         <br />
-      <a target="_blank" href="https://github.com/katiehom/theoryrevolution">
+      <a target="_blank" href="https://theoryrevolution.com">
             <img src="https://user-images.githubusercontent.com/52755177/180623890-6179f79a-82f7-4336-bf2f-adaedaa1eb44.gif" width="100%" alt="Theory Revolution"/>
       </a>
     </td>
