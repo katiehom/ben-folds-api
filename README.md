@@ -2,9 +2,10 @@
 When you're thinking of a Ben Folds or Ben Folds Five song but can't remember which album it is from, enter the song title to find the corresponding album information from the Ben Folds Songs API!
 <p align="center">
   <a href="https://ben-folds-api.netlify.app/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/52755177/180620874-046f569b-c38d-499e-8829-994d57615383.gif" alt="Ben Folds Songs"/>
+    <img src="https://user-images.githubusercontent.com/52755177/186993842-df4e2174-12ae-442d-9394-7ea48b01e6ec.gif" alt="Ben Folds Songs"/>
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/katiehom/ben-folds-api" target="_blank">
